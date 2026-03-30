@@ -1,0 +1,25 @@
+#comment-container {
+}
+
+#comment-box {
+  border: 1px solid;
+  border-color: var(--primary);
+  height: 100px;
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+#comment-title {
+  text-transform: uppercase;
+  color: var(--primary);
+  font-weight: var(--title-weight);
+  letter-spacing: 0.2rem;
+  font-size: var(--subtitle-font-size);
+}
+
+#comment {
+  padding: 5px;
+  margin: 0;
+}
