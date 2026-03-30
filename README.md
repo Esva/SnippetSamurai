@@ -102,14 +102,6 @@ npm start
 
 The app will open at `http://localhost:3001`.
 
----
-
-## Authors
-
-- [Katie Walters](https://github.com/KatieClarinet)
-- [Matt Davies](https://github.com/DevMattDavies)
-- [Mari](https://github.com/wisteria-hawthorn)
-- [CJ](https://github.com/Esva)
 
 ---
 
